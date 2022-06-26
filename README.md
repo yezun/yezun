@@ -4,8 +4,8 @@
 </div>
 
 ## My Main Projects (Present/Past)
-[3dgame](https://github.com/yezun/3DGamelearning) - unity, c++
-[m5stack](https://github.com/yezun/m5stack) - M5Stack, C++, Ambient
+-[3dgame](https://github.com/yezun/3DGamelearning) - unity, c++.
+-[m5stack](https://github.com/yezun/m5stack) - M5Stack, aia2.
 ## Tech Stack
 
 ### 💻OS
