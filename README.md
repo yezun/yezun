@@ -4,7 +4,7 @@
 </div>
 
 ## My Main Projects (Present/Past)
--[3dgame](https://github.com/yezun/3DGamelearning) - unity, c++.
+-[3dgame](https://github.com/yezun/3DGamelearning) - unity, c#.
 -[m5stack](https://github.com/yezun/m5stack) - M5Stack, MIT App Inventor 2
 ## Tech Stack
 
