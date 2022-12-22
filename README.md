@@ -1,6 +1,5 @@
 <div align="center">
   <h1></h1>
-  <p>フロントエンド、バックエンド、AI、IoTフルスタックエンジニアを目指しています⭐!!!</p>
 </div>
 
 ## My Main Projects (Present/Past)
